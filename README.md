@@ -1,16 +1,46 @@
-## Hi I'm Kayden Knapik 👋
+# Hi, I'm Kayden Knapik 👋
 
-<!--
-**KaydenKnapik/KaydenKnapik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Mechanical Engineering (Robotics) student at the Technical University of Eindhoven, Netherlands  
+🌍 Grew up in the Cayman Islands | Canadian background  
+🤖 Passionate about robotics and reinforcement learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a robotics-focused engineer building robotic systems that combine mechanical design, control, and machine learning. I’m especially interested in **reinforcement learning for locomotion and control**, and I love turning theory into working robots.
+
+---
+
+## 🔬 Current Projects
+- 🤖 Developing my own version of Disney's BD-X robots  
+- 🦿 Training custom locomotion policies for the **Booster T1 humanoid** using RL  
+
+---
+
+## 🧠 Interests
+- Reinforcement Learning for Robotics  
+- Humanoid & Legged Locomotion  
+- Embedded Systems + Motor Control  
+- Simulation-to-Real Transfer  
+- Robot Design + Prototyping  
+
+---
+
+## 🛠 Tools & Frameworks
+- Python / PyTorch / C++
+- Isaac Lab
+- MuJoCo
+- ROS2
+- CAD (Fusion 360)
+- Embedded + motor control systems  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: *https://www.linkedin.com/in/kaydenknapik/*
+- Portfolio: *(add site when ready)*
+- Youtube: 
+
+---
+
+⭐️ *Always building, always experimenting, always learning.*
