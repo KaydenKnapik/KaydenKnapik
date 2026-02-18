@@ -1,4 +1,4 @@
-y## Hi I'm Kayden Knapik 👋
+## Hi I'm Kayden Knapik 👋
 
 <!--
 **KaydenKnapik/KaydenKnapik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
