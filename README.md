@@ -38,8 +38,8 @@ I'm a robotics-focused engineer building robotic systems that combine mechanical
 
 ## 📫 Connect With Me
 - LinkedIn: *https://www.linkedin.com/in/kaydenknapik/*
-- Portfolio: *(add site when ready)*
-- Youtube: 
+- Portfolio: *www.kaydenknapik.com*
+- Youtube: *https://www.youtube.com/@kaydenknapik*
 
 ---
 
