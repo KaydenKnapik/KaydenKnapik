@@ -6,11 +6,6 @@
 
 ---
 
-## 🚀 About Me
-I'm a robotics-focused engineer building robotic systems that combine mechanical design, control, and machine learning. I’m especially interested in **reinforcement learning for locomotion and control**, and I love turning theory into working robots.
-
----
-
 ## 🔬 Current Projects
 - 🤖 Developing my own version of Disney's BD-X robots  
 - 🦿 Training custom locomotion policies for the **Booster T1 humanoid** using RL  
@@ -43,4 +38,9 @@ I'm a robotics-focused engineer building robotic systems that combine mechanical
 
 ---
 
-⭐️ *Always building, always experimenting, always learning.*
+<div align="center">
+
+✨ *“It’s kind of fun to do the impossible.”* ✨  
+— **Walt Disney**
+
+</div>
