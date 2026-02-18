@@ -33,7 +33,7 @@
 
 ## 📫 Connect With Me
 - LinkedIn: *https://www.linkedin.com/in/kaydenknapik/*
-- Portfolio: *www.kaydenknapik.com*
+- Portfolio: *kaydenknapik.com*
 - Youtube: *https://www.youtube.com/@kaydenknapik*
 
 ---
